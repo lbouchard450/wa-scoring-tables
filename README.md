@@ -144,6 +144,8 @@ python3 wa_pdf_to_data.py World_Athletics_Scoring_Tables_of_Athletics.pdf
 
 PDF officiel : World Athletics, *Scoring Tables of Athletics — 2025 Revised Edition*, par Dr. Bojidar Spiriev, mis à jour par Attila Spiriev. Disponible sur [worldathletics.org/about-iaaf/documents/technical-information](https://worldathletics.org/about-iaaf/documents/technical-information).
 
+Le PDF source utilisé pour l'extraction est inclus dans ce dépôt : [World Athletics Scoring Tables of Athletics 2025.pdf](./World%20Athletics%20Scoring%20Tables%20of%20Athletics%202025.pdf)
+
 ### Licence
 
 Les données proviennent de World Athletics (© 2025 World Athletics, tous droits réservés). Ce dépôt fournit une **reformulation structurée** des données pour faciliter l'usage technique, sans modification des valeurs.
@@ -255,6 +257,9 @@ python3 wa_pdf_to_data.py World_Athletics_Scoring_Tables_of_Athletics.pdf
 ### Source
 
 Official PDF: World Athletics, *Scoring Tables of Athletics — 2025 Revised Edition*, by Dr. Bojidar Spiriev, updated by Attila Spiriev. Available at [worldathletics.org/about-iaaf/documents/technical-information](https://worldathletics.org/about-iaaf/documents/technical-information).
+
+The source PDF used for extraction is included in this repository: [World Athletics Scoring Tables of Athletics 2025.pdf](./World%20Athletics%20Scoring%20Tables%20of%20Athletics%202025.pdf)
+
 
 ### License
 
